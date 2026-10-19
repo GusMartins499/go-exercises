@@ -1,0 +1,25 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.out
+*.test
+bin/
+
+# Go
+vendor/
+go.work
+go.work.sum
+coverage.*
+*.coverprofile
+
+# Env
+.env
+
+# Editor / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
